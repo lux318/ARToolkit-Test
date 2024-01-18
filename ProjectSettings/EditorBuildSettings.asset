@@ -4,5 +4,18 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Reflectis-PLG-ARToolkit/1.0.0/AR Samples/Scenes/MainMenu.unity
+    guid: 6f1ed4dae029b944c8536e385d48d851
+  - enabled: 1
+    path: Assets/Samples/Reflectis-PLG-ARToolkit/1.0.0/AR Samples/Scenes/MarkerDetectionSample.unity
+    guid: 8f0765c961dd67c46894ef1b7a4adbf8
+  - enabled: 1
+    path: Assets/Samples/Reflectis-PLG-ARToolkit/1.0.0/AR Samples/Scenes/PlaneDetectionSample.unity
+    guid: e0c58cddca65cd7408ce118df61775ac
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f77e5b4f6ebad9a4a8879fa6c4cc181a, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 198ee9a0da52f7549aa269a4b80fcaae, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9b2a39c5e0db9d2419194baece56a00a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 06ea766611945c94eb244992c5dc3d3c, type: 2}

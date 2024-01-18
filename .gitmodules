@@ -1,0 +1,3 @@
+[submodule "Packages/Reflectis-PLG-ARToolkit"]
+	path = Packages/Reflectis-PLG-ARToolkit
+	url = https://github.com/AnotheRealitySrl/Reflectis-PLG-ARToolkit
